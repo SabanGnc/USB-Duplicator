@@ -1,0 +1,13 @@
+C:\Users\saban\OneDrive\Masaüstü\Usb Duplicator\Usb Duplicator\Usb Duplicator\bin\Debug\Usb Duplicator.exe.config
+C:\Users\saban\OneDrive\Masaüstü\Usb Duplicator\Usb Duplicator\Usb Duplicator\bin\Debug\Usb Duplicator.exe
+C:\Users\saban\OneDrive\Masaüstü\Usb Duplicator\Usb Duplicator\Usb Duplicator\bin\Debug\Usb Duplicator.pdb
+C:\Users\saban\OneDrive\Masaüstü\Usb Duplicator\Usb Duplicator\Usb Duplicator\obj\Debug\Usb Duplicator.csproj.AssemblyReference.cache
+C:\Users\saban\OneDrive\Masaüstü\Usb Duplicator\Usb Duplicator\Usb Duplicator\obj\Debug\Usb Duplicator.csproj.SuggestedBindingRedirects.cache
+C:\Users\saban\OneDrive\Masaüstü\Usb Duplicator\Usb Duplicator\Usb Duplicator\obj\Debug\Usb_Duplicator.Form1.resources
+C:\Users\saban\OneDrive\Masaüstü\Usb Duplicator\Usb Duplicator\Usb Duplicator\obj\Debug\Usb_Duplicator.Properties.Resources.resources
+C:\Users\saban\OneDrive\Masaüstü\Usb Duplicator\Usb Duplicator\Usb Duplicator\obj\Debug\Usb Duplicator.csproj.GenerateResource.cache
+C:\Users\saban\OneDrive\Masaüstü\Usb Duplicator\Usb Duplicator\Usb Duplicator\obj\Debug\Usb Duplicator.csproj.CoreCompileInputs.cache
+C:\Users\saban\OneDrive\Masaüstü\Usb Duplicator\Usb Duplicator\Usb Duplicator\obj\Debug\Usb Duplicator.exe
+C:\Users\saban\OneDrive\Masaüstü\Usb Duplicator\Usb Duplicator\Usb Duplicator\obj\Debug\Usb Duplicator.pdb
+C:\Users\saban\OneDrive\Masaüstü\Usb Duplicator\Usb Duplicator\Usb Duplicator\bin\Debug\Guna.UI2.dll
+C:\Users\saban\OneDrive\Masaüstü\Usb Duplicator\Usb Duplicator\Usb Duplicator\obj\Debug\Usb Duplicator.csproj.CopyComplete
