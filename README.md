@@ -2,7 +2,7 @@
 ![Ekran görüntüsü 2023-07-18 140129](https://github.com/SabanGnc/USB-Duplicator/assets/139702707/5ff6ca73-bb11-4ebc-b05d-f76fa2b5abbf)
 
 # Ne İşe Yarar ?
-USB Duplicator" adında bir proje geliştirdim. Bu proje, C# dilinde yazılmıştır. Amacı, bilgisayara takılan birinci USB'yi algılamak ve içindeki bilgileri fark ettirmeden hafızasına kaydetmektir. Ardından, bilgisayara takılan ikinci USB'yi algılar ve birinci USB'nin içindeki tüm bilgileri kopyalayarak ikinci USB'ye aktarır. 💻🔁📥📂📤🔌
+
 
 Projenin temel işlevi, kullanıcının bilgisayarına takılan USB cihazlarını otomatik olarak algılayarak, veri kopyalama işlemi gerçekleştirmektir. Bu sayede, kullanıcı herhangi bir farkındalık olmadan verilerin yedeklenmesini sağlar. 🤫💾
 
